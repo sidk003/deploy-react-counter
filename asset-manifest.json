@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/deploy-react-counter/static/css/main.d1b05096.chunk.css",
-    "main.js": "/deploy-react-counter/static/js/main.ce590aff.chunk.js",
-    "main.js.map": "/deploy-react-counter/static/js/main.ce590aff.chunk.js.map",
+    "main.css": "/deploy-react-counter/static/css/main.de48d48c.chunk.css",
+    "main.js": "/deploy-react-counter/static/js/main.e32af6f6.chunk.js",
+    "main.js.map": "/deploy-react-counter/static/js/main.e32af6f6.chunk.js.map",
     "runtime-main.js": "/deploy-react-counter/static/js/runtime-main.7c4b8d54.js",
     "runtime-main.js.map": "/deploy-react-counter/static/js/runtime-main.7c4b8d54.js.map",
     "static/css/2.f65acde2.chunk.css": "/deploy-react-counter/static/css/2.f65acde2.chunk.css",
-    "static/js/2.d351b68b.chunk.js": "/deploy-react-counter/static/js/2.d351b68b.chunk.js",
-    "static/js/2.d351b68b.chunk.js.map": "/deploy-react-counter/static/js/2.d351b68b.chunk.js.map",
+    "static/js/2.6f8b5f76.chunk.js": "/deploy-react-counter/static/js/2.6f8b5f76.chunk.js",
+    "static/js/2.6f8b5f76.chunk.js.map": "/deploy-react-counter/static/js/2.6f8b5f76.chunk.js.map",
     "index.html": "/deploy-react-counter/index.html",
-    "precache-manifest.4bbc5afd794c18e5cafe56e920d3d261.js": "/deploy-react-counter/precache-manifest.4bbc5afd794c18e5cafe56e920d3d261.js",
+    "precache-manifest.6c668ca00f07d82faadb415bdaab7226.js": "/deploy-react-counter/precache-manifest.6c668ca00f07d82faadb415bdaab7226.js",
     "service-worker.js": "/deploy-react-counter/service-worker.js",
     "static/css/2.f65acde2.chunk.css.map": "/deploy-react-counter/static/css/2.f65acde2.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/deploy-react-counter/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.d351b68b.chunk.js.LICENSE": "/deploy-react-counter/static/js/2.d351b68b.chunk.js.LICENSE"
+    "static/css/main.de48d48c.chunk.css.map": "/deploy-react-counter/static/css/main.de48d48c.chunk.css.map",
+    "static/js/2.6f8b5f76.chunk.js.LICENSE": "/deploy-react-counter/static/js/2.6f8b5f76.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.7c4b8d54.js",
     "static/css/2.f65acde2.chunk.css",
-    "static/js/2.d351b68b.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ce590aff.chunk.js"
+    "static/js/2.6f8b5f76.chunk.js",
+    "static/css/main.de48d48c.chunk.css",
+    "static/js/main.e32af6f6.chunk.js"
   ]
 }
