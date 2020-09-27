@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+# Deploy-react-counter
+
+Counter App used in shopping cart made with Create-react-app
+
+May check-out the webapp on : http://sidk003.github.io/deploy-react-counter
+
+Deployed using gh-pages.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,11 +74,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# deploy-react-counter
-Counter App used in shopping cart made with Create-react-app
-
-May check-out the webapp on : http://sidk003.github.io/deploy-react-counter
-
-Deployed using gh-pages.
->>>>>>> d43f920cba39f70971d1438d4284d64c59ae2871
